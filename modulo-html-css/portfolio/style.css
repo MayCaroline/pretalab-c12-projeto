@@ -1,0 +1,11 @@
+main {
+    background-color: #f8f8f8;
+}
+
+.hero-text h1{
+    font-size: 2rem;
+    color:  #282938;
+} 
+.hero-text h1 span{
+    color: #6371ff;
+ }
